@@ -1,0 +1,225 @@
+.p-1{
+
+    background-color: yellow;width:55%;height: 400px;float: left;
+    }
+    
+    
+    
+    
+    p{
+    
+    font-family: 'Roboto'
+    }
+    .p-2{
+    
+    
+    background-color: brown;width:45%;height: 400px;float: right;
+    }
+    .row1{
+    
+    width:100%;position: relative;
+    }
+    header{
+    
+    width:100%;
+    }
+    .part-1{
+    
+        background-color: hotpink;width: 40%;height: 600px;float: left;
+    }
+    .part-2{
+    
+    background-color: rgb(21, 181, 255);width: 60%;height: 600px;overflow: hidden;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .t{
+        margin-left: 30px;
+    width:400px;font-family: ;font-size: 40px;line-height: 70px;margin-top: 120px;text-transform: uppercase;
+    }
+    .t-2{
+    
+    right: 50px;width:350px ;margin-top: 35px;margin-left: 30px;font-family: 'Roboto';
+    }
+    
+    
+    
+    a button{
+    
+    margin:30px 30px 30px 30px;  background-color:black ;padding: 14px 14px 10px 10px;color: white;
+    }
+    ul{
+    
+      float:right;
+    }
+    ul li{
+    
+      list-style-type: none;float: left;
+    }
+    ul li a{
+    margin-right: 20px;font-size: 20px;color: blue;background-color: darkgray;
+      text-decoration: none;text-transform: uppercase;margin-left: 15px;
+    }
+    ul li a:hover{
+    
+        color: white;
+    }
+    
+    .sp{
+    
+    
+    float:left;margin-right: 20px;
+    }
+     .designer{
+    
+        text-decoration: none;
+    }
+    .designer{
+        font-family: 'Roboto';
+    font-size: 20px;margin-left: 15px;
+    }
+    .white{
+    
+    color: white;
+    }
+    .brand{
+    
+        margin-left: 20px;
+    }
+    .create p{
+    
+     width: 400px;text-align: justify;margin: auto;
+    }
+     h2{ 
+    
+        text-align: justify;width: 320px;margin:30px  auto 30px 141px;font-weight: 900;font-size: 35px;font-family:  "Bebas Neue";
+    }
+    .see-more2{
+    
+        margin-left: 109px;
+    }
+    .col{
+    
+        display: block;float: left;
+    }
+    .span_3{
+    
+        width:33.3%;height: 500px;
+    }
+    .marketing-2,.campaigns-2,.advertising-2{
+    
+        font-family: 'Bebas Neue';  font-size: 50px;position: absolute;transform: translateY( 190px);margin-left: 100px;
+    }
+    .one,.three{
+    
+        background-color: #e9c7b3;
+    }
+    .two{
+    
+        background-color: blueviolet;
+    }
+    .color{
+    
+        color:#e9c7b3;
+    }
+    .idea{
+    
+        font-family: 'Bebas Neue';   font-size: 120px;text-align: center;width: 100%;;padding-top: 200px; overflow: hidden;}
+    section{
+    
+        background-color: crimson;padding-bottom: 200px;
+    }
+    .span_3_1{
+    
+        width:28%;margin: 100px 0px 0px 75px;
+    }
+    .image{
+    
+        width:300px;height:250px;
+    }
+    .c-1{
+    
+        font-family: 'Bebas Neue'; font-size: 50px;margin: 70px 0px 0px 50px;
+    }
+    .desk{
+    
+        font-family: 'Roboto';
+    }
+    .adver{
+    
+        color:#dab290 ;
+    }
+       .check{
+    
+        background-color: aqua;padding-bottom: 200px;   overflow: hidden;
+       }
+       .form1{
+    
+         margin: auto; width:1000px;height:300px;background-color: hotpink;overflow: hidden;
+       }
+       .sus{
+    
+           font-size: 40px;font-family: 'Bebas Neue';
+       }
+       .sus-p{
+        font-family: 'Roboto'
+       }
+       .sus,.sus-p{
+    
+           margin-left: 100px;
+       }
+       form{
+    
+           float: left;
+       }
+       input{
+    
+           padding:10px 30px;margin-left: 100px;margin-top: 30px;
+       }
+       .submit  button{
+    margin-left: 0px;
+          float: left; background-color: black;color: white;padding: 10px;
+       }
+       .footer{
+    
+         overflow: hidden;  background-color: lawngreen;height: 120vh;}
+    
+    .span_5_1{
+    
+        width:17%;margin: 40px 0px 0px 45px;
+    }
+    .description,.sus-p{
+    
+        font-family:"Roboto" ;
+    }
+    .text-style-2{
+    
+        color:white;font-family:" Roboto";
+    }
+    
+    .designer-1{
+    
+        margin-left: 50px;width:600px;float: left;font-family: 'Roboto';
+    }
+    .row-5{
+    
+        width:100%;height: 250px;
+    }
+    
+    i{
+    
+        width:30px;height: 30px;float: right;margin-left: 10px;
+    }
+    .nav-list li p{
+    
+        font-family: 'Roboto';
+    }
+    .designer-2{
+
+        font-size: 30px;color: white;
+    }
